@@ -38,7 +38,7 @@
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/%E2%80%AAmahmoud-tawfik-268644332/ 
+- 🔗 LinkedIn: https://linkedin.com/in/‪mahmoud-tawfik-268644332
 - 💬 Telegram: https://t.me/MahmoudMohamedTawfik
 
 ---
