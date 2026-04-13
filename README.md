@@ -47,11 +47,4 @@
 
 I learn by building projects — not just watching tutorials 🚀
 
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Tawfik1&show_icons=true&theme=tokyonight" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Tawfik1&layout=compact&theme=tokyonight" width="45%">
-
 </div>
