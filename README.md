@@ -1,6 +1,6 @@
 <div align="center" width="50">
 <h1>Hi 👋, I'm Mahmoud Tawfik</h1>
-<h3>Aspiring .NET Developer | C# | Windows Forms | OOP</h3>
+<h3>.NET Developer | C# | Windows Forms | OOP</h3>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
 
